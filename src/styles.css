@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  max-width: 400px;
+  margin: auto;
+}
+
+pre {
+  white-space: pre-wrap;
+}
